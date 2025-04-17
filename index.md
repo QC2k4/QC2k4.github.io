@@ -1,37 +1,29 @@
----
 layout: default
 title: Welcome
 ---
 
-# 👋 Hi, I'm [Your Name]
+# Profile
 
-I'm a [your role or title] with a passion for [your interests].
+- **Name**: Quang Cao
+- **Vietnamese name**: Cao Vinh Quang
 
 ---
 
 ## Skills
 
 - <b>Languages</b>: Python, C#
-- ⚙️ Git, GitHub, CLI
-- 🛠️ Python / Java / [any other tech]
-- 🎨 UI/UX Design (Figma, Canva, etc.)
+- <b>Frameworks</b>: Flask, Tensorflow, Anvil
+- <b>Tools</b>: Git, GitHub, Microsoft SQL Server, LaTeX
 
 ---
 
-## 💼 Projects
-
-### [Project Name](https://github.com/yourusername/project-repo)
-> A short description of what the project does, tools used, and your role.
-
-### [Another Project (if any)](https://github.com/yourusername/project-repo)
-> Description, stack used, what you learned, etc.
-
-*(If you don’t have projects yet, just leave this part out or write “Coming soon!”)*
+## Projects
+<b>Coming soon</b>
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 📧 Email: yourname@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- Email: 4801104111@hcmue.edu.vn  
+- LinkedIn: [linkedin.com/in/quang-cao-24b418360/](https://www.linkedin.com/in/quang-cao-24b418360/
+- GitHub: [github.com/QC2k4](https://github.com/QC2k4)
